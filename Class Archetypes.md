@@ -26,13 +26,13 @@ Snipers are your primary physical damage ranged operators. Fairly self-explanato
  The baseline sniper archetype. Fast snipers have very low cost and fast attack speed, making them useful drops early in a map alongside your vanguards. They also prioritise attacking air units.
  
  - **AoE Snipers**</br>
- High cost and slow attack speed, but their attacks deal splash damage. Longer range than fast snipers
+ High cost and slow attack speed, but their attacks deal splash damage. Longer range than fast snipers.
  
  - **Precision Snipers**</br>
- Moderate cost damage dealers with high attack, moderately slow attack speed, and short range. Deal increased damage to close enemies.
+ Moderate cost damage dealers with high attack, moderately slow attack speed, and short range. Deal increased damage to close enemies. Generally used to deal with bosses and other tanky enemies.
  
  - **Long-Range Snipers**</br>
- Very high attack, very slow attack speed, moderate cost, very long range. Their long range allows them to take down threats from a more safe distance, and their attack lets them punch through armour more readily than fast snipers.
+ Very high attack, very slow attack speed, moderate cost, very long range. Their long range allows them to take down threats from a more safe distance, and their attack lets them punch through armour more readily than fast snipers, althought their traits force them to target lowest defence enemies first.
  
  - **Shotgun Snipers**</br>
  Very high cost, moderately slow attack speed, and very short range. Something of a hybrid between precision and AoE snipers.
@@ -59,7 +59,7 @@ Arts damage counterpart to the physical damage of snipers. In general, casters h
  Low range, high attack, very slow attack speed, and very high cost. Attacks deal splash damage.
  
  - **Leizi**</br>
- Low range, moderately low attack, slow attack speed, very high cost. Her attacks bounce between enemies like a 'chain lightning' effect making her a pseudo-AoE caster. Attacks slow enemies hit.
+ Moderately low attack, slow attack speed, very high cost. Her attacks bounce between enemies like a 'chain lightning' effect making her a pseudo-AoE caster. Attacks slow enemies hit.
 
 ### Guard
 Catch-all for melee damage dealer archetypes that don't fit in the other classes.
